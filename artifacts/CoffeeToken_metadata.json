@@ -857,11 +857,11 @@
 			]
 		},
 		"contracts/SampleCoffee.sol": {
-			"keccak256": "0x82bb64edb6269cf6d3e690496893abd67fa86b32774712d444a6d7bbcf7c800a",
+			"keccak256": "0x4da0c708521fdfcc7adbeeeef2f9a2360fe5687ec6eec25123033851bbbdc718",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1d7319095e826fcd73cc346a1238cebf98acabb0f71c04fa2a33bd7d8e14c717",
-				"dweb:/ipfs/QmSYR57prgBjUFjtjcjsUx8ZdBbYVC81WnA8hAYP5jxngP"
+				"bzz-raw://3e4260c1d3413cf3b04dcb5b7c935b476891182eab27400361860d322578fef4",
+				"dweb:/ipfs/QmeJBNJALKwFQ1Hvp6yEiikYVzyv3HEJvotJoP7gbcGZW4"
 			]
 		}
 	},
